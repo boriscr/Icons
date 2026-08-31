@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="en vivo,tv" tvg-logo="https://imgs.search.brave.com/4bA7MFr0zAXE85fAKiT9M5TP1EJ24iarb2qaaPVPW94/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvMC8wMy9DYW5h/bF9TaWV0ZV9KdWp1/eV8oTG9nb18yMDIw/KS5wbmcvcmV2aXNp/b24vbGF0ZXN0L3Nj/YWxlLXRvLXdpZHRo/LWRvd24vMjAwP2Ni/PTIwMjYwNTIyMTgx/NjQw",Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 group-title="noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrTOryTxNBDiQFzqSo_HxRAtULGj4lAlplkGnbK2-MA&s",UniTeVe (Villa María)
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
