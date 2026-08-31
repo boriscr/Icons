@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="en vivo,tv" tvg-logo="https://imgs.search.brave.com/4bA7MFr0zAXE85fAKiT9M5TP1EJ24iarb2qaaPVPW94/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2xv/Z29wZWRpYS9pbWFn/ZXMvMC8wMy9DYW5h/bF9TaWV0ZV9KdWp1/eV8oTG9nb18yMDIw/KS5wbmcvcmV2aXNp/b24vbGF0ZXN0L3Nj/YWxlLXRvLXdpZHRo/LWRvd24vMjAwP2Ni/PTIwMjYwNTIyMTgx/NjQw",Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 group-title="noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrTOryTxNBDiQFzqSo_HxRAtULGj4lAlplkGnbK2-MA&s",UniTeVe (Villa María)
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 group-title="pelicula" tvg-logo="https://imgs.search.brave.com/GKG9WNZBITETWkgLV2eIXNTqrV5ECPXdDM9wvSMRcOg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMjho/Z3ByaThhbTJpZi5j/bG91ZGZyb250Lm5l/dC9ib29rX2ltYWdl/cy9vbml4L2N2cjk3/ODE0MjE1MDA5MDQv/aG93bHMtbW92aW5n/LWNhc3RsZS1waWN0/dXJlLWJvb2stOTc4/MTQyMTUwMDkwNF9s/Zy5qcGc",Howl's Moving Castle
+https://archive.org/download/howls.-moving.-castle.-2004.1080p.-bdrip.-dual.-audio.-aac-5.1.10bits.x-265-rapta/Howl%27s.Moving.Castle.2004.1080p.BDRip.Dual.Audio.AAC5.1.10bits.x265-Rapta.mp4
+#EXTINF:-1 group-title="pelicula" tvg-logo="https://imgs.search.brave.com/yMG0UheZ1fnHZdemNZOcH3zyv_5ToOztc-T3kqe6gqo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wZG9t/ZS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTAvMTAvZmFu/dGFzdGljLXBsYW5l/dDIuanBn",Fantastic Planet
+https://archive.org/serve/fantastic-planet__1973/Fantastic.Planet.1973.DUBBED.REMASTERED.1080p.BluRay.H264.AAC.ia.mp4
